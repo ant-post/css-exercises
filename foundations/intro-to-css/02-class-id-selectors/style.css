@@ -1,0 +1,18 @@
+.odd-numbered-element {
+    background-color: #ff8c8c;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.third-el-adjust-font-size {
+    font-size: 24px;
+}
+
+#second-div {
+    color: rgba(26, 26, 230, 0.897);
+    font-size: 36px;
+}
+
+#fourth-div {
+    background-color: rgba(145, 255, 131, 0.863);
+    font-weight: bold;
+}
